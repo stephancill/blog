@@ -1,0 +1,36 @@
+<svg width="500" height="500" viewBox="0 0 500 500" style="background:#0D1F2F" xmlns="http://www.w3.org/2000/svg">
+	<rect width="500" height="500" fill="#0D1F2F">
+	</rect>
+	<circle cx="250" cy="250" r="33.4899342489713" fill="#FFDA17">
+	</circle>
+	<circle cx="250" cy="250" r="93.75" fill="none" stroke="rgba(228.2346105912766,240.56554603948496,156.70826705493852,0.5)">
+	</circle>
+	<circle cx="343.48441447070206" cy="257.05171972429395" r="12.66518321249022" fill="rgb(228.2346105912766,240.56554603948496,156.70826705493852)">
+		<animateTransform attributeName="transform" type="rotate" from="0 250 250" to="360 250 250" dur="11.944025825730924" repeatCount="indefinite">
+		</animateTransform>
+	</circle>
+	<circle cx="250" cy="250" r="125" fill="none" stroke="rgba(191.84781893496924,251.11402897362146,225.34151712329816,0.5)">
+	</circle>
+	<circle cx="241.21150980317847" cy="374.69066701265325" r="13.654866539152648" fill="rgb(191.84781893496924,251.11402897362146,225.34151712329816)">
+		<animateTransform attributeName="transform" type="rotate" from="0 250 250" to="360 250 250" dur="11.833533054407205" repeatCount="indefinite">
+		</animateTransform>
+	</circle>
+	<circle cx="250" cy="250" r="156.25" fill="none" stroke="rgba(100,145.23580989006734,192.3301138338708,0.5)">
+	</circle>
+	<circle cx="296.6428941807249" cy="399.1257956305538" r="8.41013923004117" fill="rgb(100,145.23580989006734,192.3301138338708)">
+		<animateTransform attributeName="transform" type="rotate" from="0 250 250" to="360 250 250" dur="7.997022898838933" repeatCount="indefinite">
+		</animateTransform>
+	</circle>
+	<circle cx="250" cy="250" r="187.5" fill="none" stroke="rgba(117.86804362273361,100,249.94939211277028,0.5)">
+	</circle>
+	<circle cx="153.57457638319525" cy="89.19456576247259" r="12.359155183919466" fill="rgb(117.86804362273361,100,249.94939211277028)">
+		<animateTransform attributeName="transform" type="rotate" from="0 250 250" to="360 250 250" dur="6.413965655668821" repeatCount="indefinite">
+		</animateTransform>
+	</circle>
+	<circle cx="250" cy="250" r="218.75" fill="none" stroke="rgba(100,100,164.11110411050691,0.5)">
+	</circle>
+	<circle cx="48.61908101587727" cy="164.57583498148665" r="12.514782045723795" fill="rgb(100,100,164.11110411050691)">
+		<animateTransform attributeName="transform" type="rotate" from="0 250 250" to="360 250 250" dur="7.185099158476955" repeatCount="indefinite">
+		</animateTransform>
+	</circle>
+</svg>

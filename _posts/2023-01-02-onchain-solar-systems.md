@@ -2,7 +2,7 @@
 layout: post
 title: "On-chain Solar Systems"
 date: 2023-01-02 18:07:40 +0200
-categories: projects blockchain nft
+categories: projects
 ---
 
 # On-chain Solar Systems
@@ -175,3 +175,9 @@ After the mint I received a message from someone that had only received 1 token 
 We were encouraged to learn that there is such a strong demand for on-chain NFTs and hope to do (and see) more projects like this in the future. Seeing as Solar Systems was our first successful project, we would like to reward those that supported us with early access to our next project so please follow us on Twitter [@stephancill](https://twitter.com/stephancill), [@npm_luko](https://twitter.com/npm_luko), [@SolarSystemsNFT](https://twitter.com/SolarSystemsNFT) to stay up to date with the latest announcements.
 
 🔭🌌
+
+## Resources
+
+[Website](https://onchainsolar.systems)
+
+[Source](https://github.com/lbowles/solar-systems)

@@ -151,7 +151,7 @@ _Minting demo_
 
 ## Deployment
 
-After testing on Goerli and ensuring that everything works properly (rendering, OpenSea support, attributes, etc.), we deployed waited for a time that the `hardhat-gas-reporter` plugin reported that the gas cost of deployment would be reasonable and deployed to mainnet.
+After testing on Goerli and ensuring that everything works properly (rendering, OpenSea support, attributes, etc.), we waited for a time that the `hardhat-gas-reporter` plugin reported that the gas cost of deployment would be reasonable and deployed to mainnet.
 
 The frontend is hosted on GitHub pages by following the React deployment guide and linked to our custom domain https://onchainsolar.systems.
 
